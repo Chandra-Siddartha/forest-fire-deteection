@@ -1,5 +1,4 @@
 # forest-fire-deteection
-Based on the content of the project documentation on **"Forest Fire Detection using CNN-RF and CNN-XGBoost Machine Learning Algorithms"**, here’s a draft of the README file for your GitHub repository:
 
 ---
 
